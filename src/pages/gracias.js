@@ -9,9 +9,9 @@ export default function gracias() {
       <SEO title="Compra Exitosa" />
       <Purchase>
         <h2>Compra exitosa</h2>
-        <p>Espero que disfrutes tu swa, lucelo con orgullo</p>
+        <p>Espero que disfrutes tu swag, lucelo con orgullo</p>
         <p>¡Te esperamos de vuelta, no pares de aprender!</p>
-        <span rol="img" aria-label="emoji">
+        <span role="img" aria-label="emoji">
           ❤
         </span>
         <Link to="/">

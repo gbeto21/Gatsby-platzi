@@ -11,7 +11,7 @@ export default function cancelar() {
         <h2>Lamentamos la cancelación</h2>
         <p>Es triste que canceles la compra</p>
         <p>¡Pero descuida, siempre estaremos aquí para cuando regreses!</p>
-        <span rol="img" aria-label="emoji">
+        <span role="img" aria-label="emoji">
           😉
         </span>
         <Link to="/">
