@@ -5,7 +5,7 @@ import Image from "../components/image"
 import SEO from "../components/seo"
 
 export const query = graphql`
-  query GET_DESCRIPTION {
+  query {
     allSite {
       edges {
         node {
