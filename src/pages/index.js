@@ -1,7 +1,6 @@
 import React from "react"
-import { Link, grapql } from "gatsby"
+import { graphql } from "gatsby"
 import { Jumbo } from "../components"
-import Image from "../components/image"
 import SEO from "../components/seo"
 import styled from "styled-components"
 
