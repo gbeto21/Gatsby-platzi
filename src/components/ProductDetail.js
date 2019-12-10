@@ -14,7 +14,7 @@ import { SEO, Stars } from "./"
 
 export default function ProducDetail({
   price,
-  sku: id,
+  id,
   product: { name, metadata },
 }) {
   const formatePrice = priceFormat(price)
